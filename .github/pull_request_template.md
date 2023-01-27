@@ -3,6 +3,8 @@
 ## What
 <!-- Describe your changes here -->
 
+<!-- If you are doing a front end change, please include a screen recording and post it in #feature-recordings -->
+
 ## Why
 <!-- Describe the motivations behind this change if they are a subset of your ticket -->
 
