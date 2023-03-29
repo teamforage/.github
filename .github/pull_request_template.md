@@ -13,17 +13,11 @@
 
 <!-- If you are making a front-end change, specify which browser/device/OS you used to test your changes -->
 
-- [ ] N/A – Not a front-end change
-
+- [ ] Not a front-end change
 - [ ] I tested my changes on a Desktop Browser(s)
+- [ ] I tested my changes on a Mobile web browser(s)
 <!--- Ideally, specify which browser(s) and device(s) you used to test your changes 
 e.g. "Google Chrome v110.0.5481.77 on M2 Macbook Pro - macOS Version 13.0" 
-Check the Google Chrome version with chrome://version
--->
-
-- [ ] I tested my changes on a Mobile web browser(s)
-<!--- Ideally, specify which browser(s) and device(s) you used to test your changes
-e.g. "Google Chrome v110.0.5481.114 on Google Pixel 5" 
 Check the Google Chrome version with chrome://version
 
 ℹ️: ~70% of SNAP recipients have an Android device
